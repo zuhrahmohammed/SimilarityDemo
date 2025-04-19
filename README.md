@@ -55,7 +55,7 @@ SimilarityDemo/
 
 ## 📸 Demo Preview
 
-![Demo Screenshot](demo_screenshot.png) <!-- Optional: Add a screenshot or GIF if you have one -->
+![Screenshot (15)](https://github.com/user-attachments/assets/7072e3e4-5539-45cb-bc9e-971b3b069c7b)
 
 ---
 
