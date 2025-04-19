@@ -60,7 +60,7 @@ SimilarityDemo/
 ---
 
 
-This demo was used in a presentation on ontology-enhanced fake news detection during disasters.  
+This demo was used in our final presentation on ontology-enhanced fake news detection during disasters.  
 For more context, see the paper or presentation slides.
 
 ---
