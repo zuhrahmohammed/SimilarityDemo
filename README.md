@@ -17,7 +17,7 @@ cd SimilarityDemo
 
 ### 2. Set Up Your Environment
 
-Make sure you have Python 3.8+ installed. Then, install the required packages:
+Make sure you have Python installed. Then, install the required packages:
 
 ```bash
 pip install -r requirements.txt
